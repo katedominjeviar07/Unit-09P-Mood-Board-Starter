@@ -1,0 +1,22 @@
+body {
+ text-align:center;   
+ font-family: 'Lora', serif;
+
+}
+
+img {
+ height:200px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
+h1{
+    border:5px solid black;
+    font-family: 'Akronim', cursive;
+    font-size:50px;
+    
+}
